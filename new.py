@@ -1,1 +1,1 @@
-print("qq")
+print("qq")print("tt")
