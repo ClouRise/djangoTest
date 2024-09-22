@@ -1,3 +1,3 @@
-print("qq")
+print("tt")
 for i in range(10):
     print("143")
